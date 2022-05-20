@@ -1,2 +1,2 @@
-# csis3380_page_number_link
+# CSIS3380: Project 2 - Adding Page Number Links
 Add Page Number Links
